@@ -1,0 +1,11 @@
+---
+tags:
+  - military
+---
+The Islamic Revolutionary Guard Corps (IRGC; Persian: سپاه پاسداران انقلاب اسلامی Sepāh-e Pāsdārān-e Enqelâb-e Eslâmī, lit. 'Army of Guardians of the Islamic Revolution'), also called Sepah or Pasdaran, is a multi-service primary branch of the [[Iran]]ian Armed Forces. It was officially established by Ruhollah Khomeini as a military branch in May 1979, in the aftermath of the Islamic Revolution.[1][5] Whereas the Iranian Army protects the country's sovereignty in a traditional capacity, the IRGC's constitutional mandate is to ensure the integrity of the Islamic Republic.[6] Most interpretations of this mandate assert that it entrusts the IRGC with preventing foreign interference in Iran, thwarting coups by the traditional military, and crushing "deviant movements" that harm the ideological legacy of the Islamic Revolution.[7] Currently, the IRGC is designated as a terrorist organization by Bahrain, Saudi Arabia, Sweden and the [[United States of America|United States]].[8][9]
+
+As of 2011, the IRGC had at least 250,000 total personnel. The IRGC Navy is now Iran's primary force exercising operational control over the Persian Gulf.[10] The IRGC's Basij, a paramilitary volunteer militia, has about 90,000 active personnel.[11][12] It operates a media arm, known as "Sepah News" within Iran.[13] On 16 March 2022, it adopted a new independent branch called the "Command for the Protection and Security of Nuclear Centres" involved with Iran's nuclear programme.[14]
+
+Originating as an ideological militia, the IRGC has taken a greater role in nearly every aspect of Iranian politics and society. In 2019, Reuters described the organization as "an industrial empire with political clout".[15] IRGC's expanded social, political, military, and economic role under Mahmoud Ahmadinejad—especially during the 2009 presidential election and the suppression of post-election protests—has led many Western analysts to argue that it has surpassed even the country's ruling clerical class in terms of political power.[16][17][18][19]
+
+Since 2019, Hossein Salami has served as the IRGC's incumbent commander-in-chief.[20][15] 

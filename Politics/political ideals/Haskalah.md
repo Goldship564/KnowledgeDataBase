@@ -1,0 +1,10 @@
+---
+tags:
+  - politics
+---
+
+The Haskalah, often termed as the [[Jews|jewish]] Enlightenment (Hebrew: הַשְׂכָּלָה; literally, "wisdom", "erudition" or "education"), was an intellectual movement among the [[Jews]] of Central and Eastern Europe, with a certain influence on those in Western Europe and the Muslim world. It arose as a defined ideological worldview during the 1770s, and its last stage ended around 1881, with the rise of Jewish nationalism.
+
+The Haskalah pursued two complementary aims. It sought to preserve the [[Jews]] as a separate, unique collective, and it pursued a set of projects of cultural and moral renewal, including a revival of Hebrew for use in secular life, which resulted in an increase in Hebrew found in print. Concurrently, it strove for an optimal integration in surrounding societies. Practitioners promoted the study of exogenous culture, style, and vernacular, and the adoption of modern values. At the same time, economic production, and the taking up of new occupations was pursued. The Haskalah promoted rationalism, liberalism, freedom of thought, and enquiry, and is largely perceived as the [[Jews|jewish]] variant of the general Age of Enlightenment. The movement encompassed a wide spectrum ranging from moderates, who hoped for maximal compromise, to radicals, who sought sweeping changes.
+
+In its various changes, the Haskalah fulfilled an important, though limited, part in the modernization of Central and Eastern European Jews. Its activists, the Maskilim, exhorted and implemented communal, educational and cultural reforms in both the public and the private spheres. Owing to its dual policies, it collided both with the traditionalist rabbinic elite, which attempted to preserve old Jewish values and norms in their entirety, and with the radical assimilationists who wished to eliminate or minimize the existence of the Jews as a defined collective. 

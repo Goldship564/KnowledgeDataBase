@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c1a3dde797e7727a","type":"text","text":"India gain independence from British colonial rule in 1947.\n\nDeath rate were falling due to improved management of famines and more widespread availability of medicines that had controlled disease epidemics in Europe. \n\nWith lower death rate, job seeker surge. Indian government make creating job their priority ","x":-760,"y":-195,"width":350,"height":335},
+		{"id":"2c24c509a30fb81f","type":"text","text":"From the start, job grew slowly. By the second half of the 1960s, frustration with life's hardships provoked widespread anger. Prime Minister [[Indira Gandhi]] began moving toward authoritarianism in the late 1960s. Cumulating \"Emergency rule\" from June 1975 to 1977.\n\nFormality of Democracy return after 21 months but social trust has erode. Corruption lodged at the highlest level of government. Abuse of state power is a common sight. \n\nGovernment focus on short-term 'headline grabbing' policies\n\n","x":-280,"y":-195,"width":320,"height":475},
+		{"id":"fbec07ed68200bb2","type":"text","text":"In mid 1980s, a small group of Indians amassed fabulous fortunes. \n\nThe direst forms of poverty began to decline but hundred of millions fof Indians continued to live precarious lives, keeping their head above basic sustenance levels. \n\nSocial anger fed criminal network and sustained 'angry [[Hindu]]' mobs. [[Hindu]] nationalism marked a further tear in the social fabric as violet mobs sought new performance arenas.","x":160,"y":-195,"width":360,"height":355},
+		{"id":"5e937d101e83d8e4","type":"text","text":"In recent times, india democry and economy are broken\n\nV-Dem, an academic think tank based in Sweden, categorizes India as an '[[electoral autocracy]]'\n\nCOVID-19 revealed the fragility of the Indian economy, which crashed as the first wave of the disease struck. 25+/100 million jobs that lost might never come back","x":620,"y":-195,"width":330,"height":375}
+	],
+	"edges":[
+		{"id":"864bb876cbd37884","fromNode":"c1a3dde797e7727a","fromSide":"right","toNode":"2c24c509a30fb81f","toSide":"left"},
+		{"id":"97b77f0959ae8751","fromNode":"2c24c509a30fb81f","fromSide":"right","toNode":"fbec07ed68200bb2","toSide":"left"},
+		{"id":"f1bda73d69e584f8","fromNode":"fbec07ed68200bb2","fromSide":"right","toNode":"5e937d101e83d8e4","toSide":"left"}
+	]
+}

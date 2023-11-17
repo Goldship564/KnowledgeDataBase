@@ -1,0 +1,12 @@
+---
+tags:
+  - historical-events
+---
+
+The COVID-19 pandemic, also known as the coronavirus pandemic, is a global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The novel virus was first identified in an outbreak in the Chinese city of Wuhan in December 2019. Attempts to contain it there failed, allowing the virus to spread to other areas of Asia and later worldwide in 2020. The World Health Organization (WHO) declared the outbreak a public health emergency of international concern (PHEIC) on 30 January 2020. The WHO ended its PHEIC declaration on 5 May 2023. As of 14 October 2023, the pandemic had caused 771,190,439[3] cases and 6,961,001[3] confirmed deaths, ranking it fifth in the deadliest epidemics and pandemics in history.
+
+COVID-19 symptoms range from asymptomatic to deadly, but most commonly include fever, nocturnal cough, and fatigue. Transmission of the virus is often through airborne particles. Mutations have produced many strains (variants) with varying degrees of infectivity and virulence.[6]
+
+COVID-19 vaccines were widely deployed in various countries since December 2020. Treatments include novel antiviral drugs and symptom control. Common mitigation measures during the public health emergency included travel restrictions, lockdowns, business restrictions and closures, workplace hazard controls, mask mandates, quarantines, testing systems, and contact tracing of the infected.
+
+The pandemic caused severe social and economic disruption around the world, including the largest global recession since the Great Depression.[7] Widespread supply shortages, including food shortages, were caused by supply chain disruptions and panic buying. Reduced human activity led to an unprecedented decrease in pollution. Educational institutions and public areas were partially or fully closed in many jurisdictions, and events were cancelled or postponed during 2020 and 2021. Many white-collar workers began working from home. Misinformation circulated through social media and mass media, and political tensions intensified. The pandemic raised issues of racial and geographic discrimination, health equity, and the balance between public health imperatives and individual rights. 

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"44c38f2726e97067","type":"text","text":"Quick action to get data from data source or recently used data\n\nYou can also use the \"Open other reports\" to open reports from other hard drive.\n","x":-560,"y":-342,"width":250,"height":302},
+		{"id":"4df2b0c1b7148337","type":"file","file":"Screenshots/PowerBI/PowerBIWelcomeScreen.png","x":-200,"y":-200,"width":400,"height":223}
+	],
+	"edges":[
+		{"id":"1e5eb6f032fe1cd5","fromNode":"44c38f2726e97067","fromSide":"right","toNode":"4df2b0c1b7148337","toSide":"left"}
+	]
+}

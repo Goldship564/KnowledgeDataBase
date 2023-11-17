@@ -1,0 +1,205 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#tech-company  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#computer-science  ",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
+    },
+    {
+      "query": "tag:#technology  ",
+      "color": {
+        "a": 1,
+        "rgb": 8941823
+      }
+    },
+    {
+      "query": "tag:#data-analytics  ",
+      "color": {
+        "a": 1,
+        "rgb": 731503
+      }
+    },
+    {
+      "query": "tag:#machine-learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 3564177
+      }
+    },
+    {
+      "query": "tag:#data-science  ",
+      "color": {
+        "a": 1,
+        "rgb": 6983122
+      }
+    },
+    {
+      "query": "tag:#statistics  ",
+      "color": {
+        "a": 1,
+        "rgb": 5688048
+      }
+    },
+    {
+      "query": "tag:#geography  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#climate  ",
+      "color": {
+        "a": 1,
+        "rgb": 7465065
+      }
+    },
+    {
+      "query": "tag:#daily-news  ",
+      "color": {
+        "a": 1,
+        "rgb": 13505168
+      }
+    },
+    {
+      "query": "tag:#bank  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#finance  ",
+      "color": {
+        "a": 1,
+        "rgb": 8604929
+      }
+    },
+    {
+      "query": "tag:#business-concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 16632077
+      }
+    },
+    {
+      "query": "tag:#Economics  ",
+      "color": {
+        "a": 1,
+        "rgb": 16430848
+      }
+    },
+    {
+      "query": "tag:#financial-market  ",
+      "color": {
+        "a": 1,
+        "rgb": 9670698
+      }
+    },
+    {
+      "query": "tag:#Business-sector  ",
+      "color": {
+        "a": 1,
+        "rgb": 11768089
+      }
+    },
+    {
+      "query": "tag:#neurotechnology  ",
+      "color": {
+        "a": 1,
+        "rgb": 7066473
+      }
+    },
+    {
+      "query": "tag:#military  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#terrorism ",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "tag:#Firearm  ",
+      "color": {
+        "a": 1,
+        "rgb": 16056320
+      }
+    },
+    {
+      "query": "tag:#religion  ",
+      "color": {
+        "a": 1,
+        "rgb": 13834007
+      }
+    },
+    {
+      "query": "tag:#politics  ",
+      "color": {
+        "a": 1,
+        "rgb": 10497068
+      }
+    },
+    {
+      "query": "tag:#political-figure  ",
+      "color": {
+        "a": 1,
+        "rgb": 12203613
+      }
+    },
+    {
+      "query": "tag:#government-org  ",
+      "color": {
+        "a": 1,
+        "rgb": 4067087
+      }
+    },
+    {
+      "query": "tag:#political-entity  ",
+      "color": {
+        "a": 1,
+        "rgb": 5644320
+      }
+    },
+    {
+      "query": "tag:#historical-events  ",
+      "color": {
+        "a": 1,
+        "rgb": 10555886
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.25122884114583,
+  "lineSizeMultiplier": 1.131201171875,
+  "collapse-forces": true,
+  "centerStrength": 0.586751302083333,
+  "repelStrength": 17.0833333333333,
+  "linkStrength": 0.710123697916667,
+  "linkDistance": 98,
+  "scale": 0.08178090377642215,
+  "close": true
+}

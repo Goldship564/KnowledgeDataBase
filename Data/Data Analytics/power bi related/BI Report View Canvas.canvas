@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5c2496777eabe190","type":"text","text":"","x":-180,"y":-36,"width":250,"height":60},
+		{"id":"886f5c7114562af7","type":"file","file":"Screenshots/PowerBI/PowerBIReportView.png","x":-440,"y":-200,"width":810,"height":440},
+		{"id":"bca0908b1e73d435","type":"text","text":"","x":-690,"y":320,"width":250,"height":60},
+		{"id":"88c2a69b2e90a269","type":"file","file":"Screenshots/PowerBI/PowerBIViews.png","x":-690,"y":-200,"width":80,"height":187},
+		{"id":"5d00c08f0658e4ea","type":"text","text":"The left side bar are corresponding to the three main views of power bi.\n\n- The report view\n- The data view\n- The model view","x":-980,"y":-266,"width":200,"height":320},
+		{"id":"d0bb2f86c23af557","type":"file","file":"Screenshots/PowerBI/PowerBIReportCanvas.png","x":-235,"y":-500,"width":400,"height":225},
+		{"id":"d4c49b69cb915978","type":"text","text":"Known as the report canvas. Where you can add your visuals and other contents.\n\nSize of the canvas can be customized to suit your needs, but it defaults to a wide screen format to suit most modern computer displays (16 by 9)","x":-582,"y":-573,"width":284,"height":253},
+		{"id":"ffb963905a23a61a","type":"text","text":"This data panel, would carry over to Report and Data view","x":620,"y":-86,"width":250,"height":212},
+		{"id":"13a5c38e331b70bb","x":620,"y":-340,"width":250,"height":209,"type":"text","text":"The filter panel filter what data in your dataset is shown in your report"}
+	],
+	"edges":[
+		{"id":"0bda3ba10f04ba1f","fromNode":"88c2a69b2e90a269","fromSide":"right","toNode":"886f5c7114562af7","toSide":"left"},
+		{"id":"c8687c4d51e68524","fromNode":"5d00c08f0658e4ea","fromSide":"right","toNode":"88c2a69b2e90a269","toSide":"left"},
+		{"id":"179ecfeb309793e5","fromNode":"d0bb2f86c23af557","fromSide":"bottom","toNode":"886f5c7114562af7","toSide":"top"},
+		{"id":"ea5dc9d6b2884623","fromNode":"d4c49b69cb915978","fromSide":"right","toNode":"d0bb2f86c23af557","toSide":"left"},
+		{"id":"2bfd41163a4c6995","fromNode":"ffb963905a23a61a","fromSide":"left","toNode":"886f5c7114562af7","toSide":"right"},
+		{"id":"1ea5d98d42c9bb4e","fromNode":"13a5c38e331b70bb","fromSide":"left","toNode":"886f5c7114562af7","toSide":"right"}
+	]
+}

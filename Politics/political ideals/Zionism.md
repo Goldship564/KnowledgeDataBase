@@ -1,0 +1,14 @@
+---
+aliases:
+  - Jewish national movement
+tags:
+  - politics
+---
+
+Zionism (Hebrew: צִיּוֹנוּת Tsiyyonut [tsijoˈnut] after Zion) is a nationalist[fn 1] movement that emerged in the 19th century to espouse support for the establishment of a homeland for the [[Jews|jewish]] people in [[Palestine]],[3][4][5][6] a region roughly corresponding to the Land of [[Israel]] in [[Jews|jewish]] tradition.[7][8][9][10] Following the establishment of [[Israel]], Zionism became an ideology that supports "the development and protection of the [State of Israel](https://en.wikipedia.org/wiki/Homeland_for_the_Jewish_people)".[11]
+
+Zionism initially emerged in Central and Eastern Europe as a national revival movement in the late 19th century, both in reaction to newer waves of [[antisemitism]] and as a response to [[Haskalah]], or Jewish Enlightenment.[12][13][14] Soon after this, most leaders of the movement associated the main goal with creating the desired homeland in [[Palestine]], then an area controlled by the Ottoman Empire.[15][16][17] This process was seen by the Zionist Movement as an "ingathering of exiles" (kibbutz galuyot), an effort to put a stop to the exoduses and persecutions that have marked Jewish history by bringing the Jewish people back to their historic homeland.[18]
+
+From 1897 to 1948, the primary goal of the Zionist Movement was to establish the basis for a Jewish homeland in Palestine, and thereafter to consolidate it. In a unique variation of the principle of self-determination,[19] The Lovers of Zion united in 1884 and in 1897 the first Zionist congress was organized. In the late 19th and early 20th centuries, a large number of Jews immigrated to first Ottoman and later Mandatory Palestine, and at the same time, diplomatic attempts were made to gain worldwide recognition and support. Since the establishment of the State of Israel in 1948, Zionism has continued primarily to advocate on behalf of Israel and to address threats to its continued existence and security.
+
+Zionism has never been a uniform movement. Its leaders, parties, and ideologies frequently diverged from one another. Compromises and concessions were made in order to achieve a shared cultural and political objective as a result of the growing antisemitism and yearning to return to the "ancestral" country. A variety of types of Zionism have emerged, including political Zionism, liberal Zionism, labor Zionism, revisionist Zionism, cultural Zionism, and religious Zionism. Advocates of Zionism view it as a national liberation movement for the repatriation of a persecuted people to its ancestral homeland.[20][21][22] Critics of Zionism view it as a colonialist,[23] racist,[24] or exceptionalist ideology or movement.[25][26][27][28][29] 

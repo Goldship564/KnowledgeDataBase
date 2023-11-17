@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7de41b0e3073dc5b","type":"text","text":"United States Congress\n>[!Source]\n>Wikipedia: https://en.wikipedia.org/wiki/United_States_Congress\n\nThe United States Congress is the legislature of the federal government of the United States. It is bicameral, composed of a lower body, the House of Representatives, and an upper body, the Senate. It meets in the U.S. Capitol in Washington, D.C. Senators and representatives are chosen through direct election, though vacancies in the Senate may be filled by a governor's appointment. Congress[b] has 535 voting members: 100 senators and 435 representatives. The U.S. vice president has a vote in the Senate only when senators are evenly divided. The House of Representatives has six non-voting members.[4]","x":-400,"y":-190,"width":420,"height":550},
+		{"id":"2b1194d0dfaff2d1","type":"text","text":"[[United States House of Representatives]]\n","x":160,"y":260,"width":250,"height":69},
+		{"id":"7113569000bc554a","type":"text","text":"[[United States Senate]]","x":160,"y":-140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"307ef46cd7142c6b","fromNode":"7113569000bc554a","fromSide":"bottom","toNode":"2b1194d0dfaff2d1","toSide":"top"},
+		{"id":"25b2c6722454a300","fromNode":"2b1194d0dfaff2d1","fromSide":"top","toNode":"7113569000bc554a","toSide":"bottom"},
+		{"id":"ac0a4a4c84b3f5d6","fromNode":"7de41b0e3073dc5b","fromSide":"right","toNode":"7113569000bc554a","toSide":"left","toEnd":"none"},
+		{"id":"751fc0a4239ab859","fromNode":"7de41b0e3073dc5b","fromSide":"right","toNode":"2b1194d0dfaff2d1","toSide":"left","toEnd":"none"}
+	]
+}

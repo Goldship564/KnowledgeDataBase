@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "66f3e658231ca05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c070df7f49137f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe09bf304ddd40a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Everyday news/2023 Nov/2023-11-17 Top interesting news from Below Source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8211da9f205e6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics/political figure/Xi Jinping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ece1117e58ba9f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd593381d21c17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e500b619183c17f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9e650980f5f0301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf2683056096a070",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e458f08ebfb3cf9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d828627f408f78b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621ae6afb6d7d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Everyday news/2023 Nov/2023-11-17 Top interesting news from Below Source.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff252ffd1f6da485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Everyday news/2023 Nov/2023-11-17 Top interesting news from Below Source.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d02b4c3edc2527e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f71b3faa932f97f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Everyday news/2023 Nov/2023-11-17 Top interesting news from Below Source.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e500b619183c17f4",
+  "lastOpenFiles": [
+    "Everyday news/2023 Nov/2023-11-15 Top interesting news from below source.md",
+    "Everyday news/2023 Nov/2023-11-17 Top interesting news from Below Source.md",
+    "Everyday news/2023 Nov/2023-11-16 Top interesting news from Below Source.md",
+    "Politics/political figure/Fumio Kishida.md",
+    "Politics/political figure/Xi Jinping.md"
+  ]
+}

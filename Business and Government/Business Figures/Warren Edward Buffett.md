@@ -1,0 +1,17 @@
+---
+tags:
+  - business-figures
+aliases:
+  - Warren Buffett
+  - Buffett
+---
+>[!Source]
+>Wikipedia: https://en.wikipedia.org/wiki/Warren_Buffett
+
+Warren Edward Buffett (/ˈbʌfɪt/ BUF-it; born August 30, 1930)[2] is an [[United States of America|American]] business magnate, investor, and philanthropist. He is currently the chairman and CEO of [[Berkshire Hathaway Inc|Berkshire Hathaway]]. As a result of his immense investment success,[3][4] Buffett is one of the best-known fundamental investors in the world. As of October 2023,[5] he had a net worth of $117 billion, making him the seventh-richest person in the world.[5]
+
+Buffett was born in Omaha, Nebraska. The son of congressman and businessman Howard Buffett, he developed an interest in business and investing during his youth. He entered the Wharton School of the University of Pennsylvania in 1947 before graduating from the University of Nebraska at 19. He went on to graduate from Columbia Business School, where he molded his investment philosophy around the concept of value investing pioneered by Benjamin Graham. He attended New York Institute of Finance to focus on his economics background and soon pursued a business career. He later began various business ventures and investment partnerships, including one with Graham. He created Buffett Partnership Ltd. in 1956 and his investment firm eventually acquired a textile manufacturing firm, Berkshire Hathaway, assuming its name to create a diversified holding company. Buffett emerged as the company's chairman and majority shareholder in 1970. In 1978, fellow investor and long-time business associate Charlie Munger joined Buffett as vice-chairman.[6][7]
+
+Since 1970, Buffett has presided as the chairman and largest shareholder of Berkshire Hathaway, one of America's foremost holding companies and world's leading corporate conglomerates. He has been referred to as the "Oracle" or "Sage" of Omaha by global media as a result of having accumulated a massive fortune derived from his business and investment success.[8][9] He is noted for his adherence to the principles of value investing, and his frugality despite his vast wealth.[10]
+
+Buffett has pledged to give away 99 percent[11] of his fortune to philanthropic causes, primarily via the Bill & Melinda Gates Foundation. He founded the Giving Pledge in 2010 with Bill Gates, whereby billionaires pledge to give away at least half of their fortunes.[12] 

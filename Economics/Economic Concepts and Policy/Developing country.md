@@ -1,0 +1,21 @@
+---
+tags:
+  - Economics
+aliases:
+  - low-middle-income countries
+---
+A developing country is a sovereign state with a less developed industrial base and a lower Human Development Index (HDI) relative to other countries.[3] However, this definition is not universally agreed upon. There is also no clear agreement on which countries fit this category.[4][5] The terms low and middle-income country (LMIC) and newly emerging economy (NEE) are often used interchangeably but refers only to the economy of the countries. The World Bank classifies the world's economies into four groups, based on gross national income per capita: high, upper-middle, lower-middle, and low income countries. Least developed countries, landlocked developing countries and small island developing states are all sub-groupings of developing countries. Countries on the other end of the spectrum are usually referred to as high-income countries or developed countries.
+
+There are controversies over the term's use, as some feel that it perpetuates an outdated concept of "us" and "them".[6] In 2015, the World Bank declared that the "developing/developed world categorization" had become less relevant and that they will phase out the use of that descriptor. Instead, their reports will present data aggregations for regions and income groups.[5][7] The term "Global South" is used by some as an alternative term to developing countries.
+
+Developing countries tend to have some characteristics in common often due to their histories or geographies. For example, they commonly have: lower levels of access to safe drinking water, sanitation and hygiene, energy poverty, higher levels of pollution (e.g. air pollution, littering, water pollution, open defecation), higher proportions of people with tropical and infectious diseases (neglected tropical diseases), more road traffic accidents, and generally poorer quality infrastructure.
+
+In addition, there are also often high unemployment rates, widespread [[Poverty]], widespread hunger, extreme poverty, child labour, malnutrition, homelessness, substance abuse, prostitution, overpopulation, civil disorder, human capital flight, a large informal economy, high crime rates (extortion, robbery, burglary, murder, homicide, arms trafficking, sex trafficking, drug trafficking, kidnapping, rape), low education levels, economic inequality, school desertion, inadequate access to family planning services, teenage pregnancy, many informal settlements and slums, corruption at all government levels, and political instability. Unlike developed countries, developing countries lack rule of law.
+
+Access to healthcare is often low.[8] People in developing countries usually have lower life expectancies than people in developed countries, reflecting both lower income levels and poorer public health.[9][10][11] The burden of infectious diseases,[12] maternal mortality,[13][14] child mortality[15] and infant mortality[16][17] are typically substantially higher in those countries. The effects of climate change are expected to impact developing countries more than high-income countries, as most of them have a high climate vulnerability or low climate resilience.[18]
+
+Developing countries often have lower median ages than developed countries. Population aging is a global phenomenon, but population age has risen more slowly in developing countries.[19]
+
+Development aid or development cooperation is financial aid given by foreign governments and other agencies to support developing countries' economic, environmental, social, and political development. If the Sustainable Development Goals which were set up by the United Nations for the year 2030 are achieved, they would overcome many of these problems. Bangladesh has consistently achieved an annual GDP growth rate that surpasses Pakistan's by approximately 2.5 percentage points each year.[20] The fate of Pakistan's stability is increasingly intertwined with the trajectory of a deepening economic crisis.[21] 
+
+Source: https://en.wikipedia.org/wiki/Developing_country

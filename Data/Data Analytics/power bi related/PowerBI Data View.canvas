@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0598d87a21b41c52","type":"file","file":"Screenshots/PowerBI/PowerBIDataView.png","x":-200,"y":-120,"width":400,"height":215},
+		{"id":"b46a381152f53b91","type":"text","text":"This data panel, would carry over to Report and Data view","x":300,"y":-117,"width":250,"height":212}
+	],
+	"edges":[
+		{"id":"8447695597413b38","fromNode":"b46a381152f53b91","fromSide":"left","toNode":"0598d87a21b41c52","toSide":"right"}
+	]
+}

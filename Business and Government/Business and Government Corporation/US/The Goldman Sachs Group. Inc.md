@@ -1,0 +1,14 @@
+---
+tags:
+  - bank
+  - finance
+aliases:
+  - Goldman
+  - Goldman Sachs
+---
+>[!Source]
+>Wikipedia: https://en.wikipedia.org/wiki/Goldman_Sachs
+
+The Goldman Sachs Group, Inc. (/sæks/ SAKS) is an [[United States of America|American]] multinational investment bank and financial services company. Founded in 1869, Goldman Sachs is headquartered in Lower Manhattan in New York City, with regional headquarters in many international financial centers.[1] Goldman Sachs is the second largest investment bank in the world by revenue[2] and is ranked 55th on the Fortune 500 list of the largest United States corporations by total revenue.[3] It is considered a systemically important financial institution by the Financial Stability Board.
+
+Goldman Sachs offers services in investment banking (advisory for mergers and acquisitions and restructuring), securities underwriting, prime brokerage, asset management as well as wealth management and investment management via Goldman Sachs Personal Financial Management. It is a market maker for many types of financial products and provides clearing and custodian bank services. It operates private-equity funds and hedge funds. It structures complex and tailor-made financial products. It also owns Goldman Sachs Bank USA, a direct bank. It trades both on behalf of its clients (flow trading) and for its own account (proprietary trading). The company invests in and arranges financing for startups, and in many cases gets additional business as bookrunner when the companies launch initial public offerings.[4] It is one of over 100 strategic partners of the World Economic Forum.[5] 

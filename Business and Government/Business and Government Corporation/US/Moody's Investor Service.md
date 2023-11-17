@@ -1,0 +1,14 @@
+---
+tags:
+  - finance
+aliases:
+  - Moody
+---
+>[!Source]
+>Wikipedia: https://en.wikipedia.org/wiki/Moody%27s_Investors_Service
+
+Moody's Investors Service, often referred to as Moody's, is the bond credit rating business of Moody's Corporation, representing the company's traditional line of business and its historical name. Moody's Investors Service provides international financial research on [[bond]]s issued by commercial and government entities. Moody's, along with Standard & Poor's and Fitch Group, is considered one of the Big Three credit rating agencies. It is also included in the Fortune 500 list of 2021.[2]
+
+The company ranks the creditworthiness of borrowers using a standardized ratings scale which measures expected investor loss in the event of default. Moody's Investors Service rates debt securities in several bond market segments. These include government, municipal and corporate bonds; managed investments such as money market funds and fixed-income funds; financial institutions including banks and non-bank finance companies; and asset classes in structured finance.[3] In Moody's Investors Service's ratings system, securities are assigned a rating from Aaa to C, with Aaa being the highest quality and C the lowest quality.
+
+Moody's was founded by John Moody in 1909, to produce manuals of statistics related to stocks and bonds and bond ratings. In 1975, the company was identified as a Nationally Recognized Statistical Rating Organization (NRSRO) by the U.S. Securities and Exchange Commission.[4] Following several decades of ownership by Dun & Bradstreet, Moody's Investors Service became a separate company in 2000. Moody's Corporation was established as a holding company.[5] 
